@@ -1,0 +1,2 @@
+my second txt file , trying to add all new files using command
+git add .
